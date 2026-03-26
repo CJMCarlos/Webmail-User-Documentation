@@ -4,3 +4,10 @@ theme:
   name: material
   logo: assets/channels4_profile.jpg
   favicon: assets/channels4_profile.jpg
+
+# MARKDOWN EXTENSIONS
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables

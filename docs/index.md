@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The purpose of this blah blah blah
+The purpose of this document is to help you effectively use your BCIT email, an essential tool for communication in the CST program. It provides important features such as the benefits of a BCIT email, setting up filters, connecting to an external email client like Microsoft Outlook, and adding a professional signature.
+
+For more information, please visit the official [BCIT website](https://kb.bcit.ca/student/logging-in-to-mybcit-125/).
 
 ## User Demographic
 
@@ -18,6 +20,34 @@ The Documentation assumes the following
 - User already has an BCIT email
 - Basic knowledge of mouse, keyboard, and trackpad terminologies
 - Knowledge of other email platforms (Microsoft Outlook, Gmail, Yahoo, etc.)
+
+## Software Requirements
+
+Only basic computer literacy is required to follow this guide. Users will need a Windows, macOS, or Linux computer to use any browser.
+
+## Typographical Conventions
+
+| Convention Explanation                                                                                                                       | Examples                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Commands & Actions: Bolded verbs are commands or actions you need to perform for instructions.                                               | Click, Enter, Type, Return, Open, Select              |
+| Menu & Button Sequence: Menu and Buttons are enclosed with square brackets. The → symbol indicates the flow of menu or button click actions. | [Students] → [Higher Education] → [Start diagramming] |
+
+## Admonitions
+
+This guide uses info, success, and warning messages to provide additional information for instruction steps.
+
+!!! info
+    Indicates additional information or tips.
+
+!!! success
+    Indicates what success looks like.
+
+!!! warning
+    Specifies content that must be read before proceeding.
+
+
+
+
 
 <!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
