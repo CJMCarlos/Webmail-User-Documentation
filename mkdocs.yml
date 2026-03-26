@@ -2,6 +2,11 @@ site_name: Webmail-User-Documentation
 site_url: https://mydomain.org/Webmail-User-Documentation
 theme:
   name: material
+  palette:
+    scheme: indigo
+    primary: custom
+    accent: indigo
+
   logo: assets/channels4_profile.jpg
   favicon: assets/channels4_profile.jpg
 
@@ -11,3 +16,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
+
+extra_css:
+  - stylesheets/extra.css
