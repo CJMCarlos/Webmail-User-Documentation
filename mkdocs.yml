@@ -1,4 +1,6 @@
-site_name: BCIT Webmail
-site_url: https://mydomain.org/bcitwebmail
+site_name: Webmail-User-Documentation
+site_url: https://mydomain.org/Webmail-User-Documentation
 theme:
   name: material
+  logo: assets/channels4_profile.jpg
+  favicon: assets/channels4_profile.jpg

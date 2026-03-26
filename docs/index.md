@@ -1,6 +1,25 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introduction
+
+The purpose of this blah blah blah
+
+## User Demographic
+
+This documentation is targeted towards the following users:
+
+- Confused first year CST students
+- Students who want to utilize their BCIT email
+
+## Prerequisite Knowledge
+
+The Documentation assumes the following
+
+- User already has an BCIT email
+- Basic knowledge of mouse, keyboard, and trackpad terminologies
+- Knowledge of other email platforms (Microsoft Outlook, Gmail, Yahoo, etc.)
+
+<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
@@ -14,4 +33,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
