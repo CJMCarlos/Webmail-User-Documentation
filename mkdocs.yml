@@ -1,0 +1,4 @@
+site_name: BCIT Webmail
+site_url: https://mydomain.org/bcitwebmail
+theme:
+  name: material
