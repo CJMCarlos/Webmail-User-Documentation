@@ -1,4 +1,4 @@
-/* BCIT HEADER COLOUR FOR .YML ONLY */
+/* BCIT HEADER COLOUR FOR .YML*/
 [data-md-color-scheme="header1"] {
   --md-primary-fg-color: #032b52;
   --md-primary-fg-color--light: #032b52;
@@ -23,3 +23,20 @@
   color: #013f6a;
   border-bottom-color: #013f6a;
 }
+
+/* .md-nav__link {
+  display: inline-block;
+} */
+
+/* CONTENT TAB SPACING FOR YELLOW UNDERLINE */
+.md-nav__link {
+  border-bottom: 3px solid transparent;
+}
+
+/* CONTENT TAB UNDERLINE HOVER */
+.md-nav__link:hover {
+  color: currentColor !important;
+  border-bottom: 3px solid #fff176;
+}
+
+/* I don't like how the text is blue when hovered over. I want it to be the same coloured text with the yellow underline */
