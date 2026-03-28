@@ -16,9 +16,9 @@ Refrain from pressing `Ctrl+S` in `Index.html` as Prettier will automatically fo
 ## STYLE GUIDE (REMOVE ONCE FINISHED)
 
 ### Colour Pallete
-Main Header: #013F6A
-Sub Header: #625D5D
-Text: #013F6A
+- Main Header: #013F6A
+- Sub Header: #625D5D
+- Text: #013F6A
 Note: Please follow the BCIT colour pallete format for our theme.
 
 ### CSS REFERENCE
