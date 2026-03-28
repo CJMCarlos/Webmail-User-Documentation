@@ -2,10 +2,10 @@
 **EVERYTHING BELOW THIS HEADER IS TEMPORARY**
 
 ## Our 4 Main Tasks!
-- Sign up for student discounts and services
-- Setting up filters
 - Setting up external email client
 - Adding a signature
+- Setting up filters
+- Sign up for student discounts and services
 
 ## How to use
 
