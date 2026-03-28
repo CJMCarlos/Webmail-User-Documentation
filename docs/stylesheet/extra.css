@@ -1,0 +1,36 @@
+/* HEADER: BCIT HEADER COLOUR */
+[data-md-color-scheme="header1"] {
+  --md-primary-fg-color: #032b52;
+  --md-primary-fg-color--light: #032b52;
+  --md-primary-fg-color--dark: #032b52;
+}
+
+.fancy-text {
+  font-weight: 800; /* extra bold */
+  color: white; /* main text color */
+  -webkit-text-stroke: 1px black; /* outline */
+  text-shadow: 2px 2px 0 black; /* shadow effect */
+}
+
+/* DEFAULT TEXT */
+/* body {
+  color: #013f6a;
+} */
+
+.md-typeset p {
+  color: #013f6a;
+}
+
+/* HYPERLINK SECTION */
+.md-typeset a {
+  color: #2962ff;
+  text-decoration: none;
+
+  border-bottom: 3px solid #fff176;
+}
+
+/* HYPERLINK HOVER EFFECT */
+.md-typeset a:hover {
+  color: #013f6a;
+  border-bottom-color: #013f6a;
+}
