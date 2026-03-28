@@ -58,3 +58,10 @@ Links:
   color: #2962ff;
 }
 ```
+
+Content Tabs:
+```
+.md-nav__link {
+  border-bottom: 3px solid transparent; This is an example
+}
+```
