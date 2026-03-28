@@ -37,13 +37,13 @@ Only basic computer literacy is required to follow this guide. Users will need a
 This guide uses info, success, and warning messages to provide additional information for instruction steps.
 
 !!! info
-    Indicates additional information or tips.
+    Tips or helpful information!
 
 !!! success
-    Indicates what success looks like.
+    Description of a successful outcome!
 
 !!! warning
-    Specifies content that must be read before proceeding.
+    Important content before proceeding!
 
 <!-- For full documentation visit <[mkdocs.org](https://www.mkdocs.org)>.
 
