@@ -1,6 +1,12 @@
 # Webmail-User-Documentation
+**EVERYTHING BELOW THIS HEADER IS TEMPORARY**
 
-(Temporary!)
+## Our 4 Main Tasks!
+- Sign up for student discounts and services
+- Setting up filters
+- Setting up external email client
+- Adding a signature
+
 ## How to use
 
 (Carlos): 
@@ -8,11 +14,6 @@
 python -m [mkdocs command here]
 mkdocs serve --livereload
 ```
-## Our 4 Main Tasks!
-- Sign up for student discounts and services
-- Setting up filters
-- Setting up external email client
-- Adding a signature
 
 ## CAUTION! (Developers Only)
 
