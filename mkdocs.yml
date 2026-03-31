@@ -4,7 +4,7 @@ site_url: https://mydomain.org/Webmail-User-Documentation
 nav:
   - Home: index.md
   - Setting up external email client: Setting up external email client.md
-  - Adding a signature: Adding a signature.md
+  - Setting up identity: Setting up identity.md
   - Setting up filters: Setting up filters.md
   - Sign up for student benefits: Sign up for student benefits.md
   - Troubleshooting: Troubleshooting.md
@@ -25,6 +25,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
+  - pymdownx.tasklist
   - pymdownx.tabbed:
       alternate_style: true
 

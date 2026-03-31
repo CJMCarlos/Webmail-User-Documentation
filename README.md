@@ -2,10 +2,10 @@
 **EVERYTHING BELOW THIS HEADER IS TEMPORARY**
 
 ## Our 4 Main Tasks!
-- Setting up external email client
-- Adding a signature
-- Setting up filters
-- Sign up for student discounts and services
+1. Setting up external email client
+2. Setting up an identity (Signature, display name, org)
+3. Setting up filters
+4. Sign up for student discounts and services
 
 ## How to use
 
