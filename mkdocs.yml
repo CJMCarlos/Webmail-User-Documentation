@@ -21,6 +21,7 @@ theme:
 
 # MARKDOWN EXTENSIONS
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
