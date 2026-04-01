@@ -18,8 +18,13 @@
   border-bottom: 3px solid #fff176;
 }
 
+/* Exclude tabbed content links from yellow underline */
+.md-typeset .tabbed-labels a {
+  border-bottom: none;
+}
+
 /* HYPERLINK HOVER EFFECT */
-.md-typeset a:hover {
+.md-typeset a:not(.md-tabs__tab):hover {
   color: #013f6a;
   border-bottom-color: #013f6a;
 }
@@ -39,4 +44,3 @@
   border-bottom: 3px solid #fff176;
 }
 
-/* I don't like how the text is blue when hovered over. I want it to be the same coloured text with the yellow underline */
