@@ -3,7 +3,7 @@ Filters automatically sort your incoming emails based on rules you define. For e
 
 ## **Filtering Submission Receipts**
 Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
-![alt text](assets/FilterSubmissionReciept.png)
+![alt text](assets/FilterSubmissionReciept.png"Annoying submission receipt email")
 Here are the steps to get started!
 
 1. Log into [MyBCIT](https://my.bcit.ca/)
@@ -11,15 +11,15 @@ Here are the steps to get started!
 2. Click **My Mail** in the top-right corner.
 
     === "Image"
-        ![alt text](assets/Filter2ndStep.png)
+        ![alt text](assets/Filter2ndStep.png"Options top right corner")
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter2ndGif.gif){width=600px}
 
 3. In your myBCIT email, click **Settings** (top-right)
 
     === "Image"
-        ![alt text](assets/Filter3rdStep.png)
+        ![alt text](assets/Filter3rdStep.png"")
 
     === "Gif"
         <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>

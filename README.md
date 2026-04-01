@@ -31,7 +31,7 @@ If you want image and gif with numbered steps:
         ![alt text](assets/Filter2ndStep.png)
 
     === "Gif"
-        Coming soon! [Gif Here]
+        ![alt text](assets/Filter2ndGif.gif){width=600px} <-- Setting size
 ```
 
 ### Colour Pallete
