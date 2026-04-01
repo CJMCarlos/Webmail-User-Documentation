@@ -12,14 +12,27 @@
 (Carlos): 
 ```
 python -m [mkdocs command here]
-mkdocs serve --livereload
+python -m mkdocs serve --livereload
 ```
 
 ## CAUTION! (Developers Only)
 
-Refrain from pressing `Ctrl+S` in `Index.html` as Prettier will automatically format the Admonitions
+Refrain from pressing `Ctrl+S` as Prettier will automatically format the indents that make Admonitions and Content tabs work!
 
 ## STYLE GUIDE (REMOVE ONCE FINISHED)
+
+### STEPS
+
+If you want image and gif with numbered steps:
+```
+1. Click **My Mail** in the top-right corner.
+
+    === "Image"
+        ![alt text](assets/Filter2ndStep.png)
+
+    === "Gif"
+        Coming soon! [Gif Here]
+```
 
 ### Colour Pallete
 - Main Header: #013F6A (IN BOLD)
