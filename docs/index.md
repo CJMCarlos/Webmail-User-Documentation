@@ -32,7 +32,6 @@ The main sections of the documentation are summarized below:
 - **[Setting up filters](Setting up filters)**
 - **[Sign up for student benefits](Sign up for student benefits)**
 
-
 ## **Typographical Conventions**
 
 | Convention Explanation                                                                                                                       | Examples                                              |
