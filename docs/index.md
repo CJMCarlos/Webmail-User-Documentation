@@ -1,6 +1,4 @@
-# Home
-
-## **Introduction**
+# **Introduction**
 
 The purpose of this document is to help you effectively use your BCIT email, an essential tool for communication in the CST program. It provides important features such as the benefits of a BCIT email, setting up filters, connecting to an external email client like Microsoft Outlook, and adding a professional signature.
 
@@ -10,8 +8,8 @@ For more information, please visit the official [BCIT website](https://kb.bcit.c
 
 This documentation is targeted towards the following users:
 
-- Confused first year CST students
 - Students who want to utilize their BCIT email
+- Confused first year CST students
 
 ## **Prerequisite Knowledge**
 
@@ -24,6 +22,15 @@ The Documentation assumes the following
 ## **Software Requirements**
 
 Only basic computer literacy is required to follow this guide. Users will need a Windows, macOS, or Linux computer to use any browser.
+
+## Procedures Overview
+
+The main sections of the documentation are summarized below:
+
+- **[Setting up external email client](Setting up external email client)**
+- **[Setting up identity](Setting up identity)**
+- **[Setting up filters](Setting up filters)**
+- **[Sign up for student benefits](Sign up for student benefits)**
 
 ## **Typographical Conventions**
 

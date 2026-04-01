@@ -3,7 +3,7 @@ Filters automatically sort your incoming emails based on rules you define. For e
 
 ## **Filtering Submission Receipts**
 Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
-![alt text](assets/FilterSubmissionReciept.png)
+![alt text](assets/FilterSubmissionReciept.png"Annoying submission receipt email")
 Here are the steps to get started!
 
 1. Log into [MyBCIT](https://my.bcit.ca/)
@@ -11,18 +11,18 @@ Here are the steps to get started!
 2. Click **My Mail** in the top-right corner.
 
     === "Image"
-        ![alt text](assets/Filter2ndStep.png)
+        ![alt text](assets/Filter2ndStep.png"Options top right corner")
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter2ndGif.gif){width=600px}
 
 3. In your myBCIT email, click **Settings** (top-right)
 
     === "Image"
-        ![alt text](assets/Filter3rdStep.png)
+        ![alt text](assets/Filter3rdStep.png"")
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter3rdGif.gif){width=800px}
 
 4. Under **Settings**, select **Filters**.
 
@@ -30,7 +30,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter4thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter4thGif.gif){width=800px}
 
 5. Click + to add a new filter.
 
@@ -38,7 +38,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter5thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter5thGif.gif){width=800px}
 
     !!! info
         **roundcube** is the default filter set in your myBCIT email. This set is managed by the Roundcube webmail system, which is the standard interface for myBCIT email accounts. So don't worry about it!
@@ -49,7 +49,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter6thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+         ![alt text](assets/Filter6thGif.gif){width=800px}
 
 
 7. Set your condition
@@ -58,7 +58,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter7thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter7thGif.gif){width=800px}
 
     !!! info
         - **matching all of the following rules**: The email must meet *every* condition (AND)
@@ -71,7 +71,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter8thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter8thGif.gif){width=800px}
 
 9. Right of **contains** box, select the **text field** and insert: 
     ```
@@ -82,7 +82,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter9thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter9thGif.gif){width=800px}
 
     !!! info
         The original address is "The Learning Hub - BCIT's Online Course Portal no-reply@mail.learn.bcit.ca". 
@@ -95,7 +95,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter10thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter10thGif.gif){width=800px}
 
     !!! warning
         Make sure the **Filter disabled** toggle in the bottom-right is off so your filter is active.
@@ -106,7 +106,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter11thStep.png)
 
     === "Gif"
-        <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ![alt text](assets/Filter11thGif.gif){width=800px}
 
 !!! success
     Congratulations! You have successfully uncluttered your inbox with one of many filters!
