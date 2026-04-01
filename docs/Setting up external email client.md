@@ -1,4 +1,5 @@
 # <u>***Will reformat and apply style guide after instructions are reviewed.***</u>
+
 - [ ] 1. Review instructions
 - [ ] 2. Add images
 - [ ] 3. Reformat
@@ -6,15 +7,24 @@
 
 # How to Setup An External Email Client
 
+- [***Will reformat and apply style guide after instructions are reviewed.***](#will-reformat-and-apply-style-guide-after-instructions-are-reviewed)
+- [How to Setup An External Email Client](#how-to-setup-an-external-email-client)
+  - [What Is An External Email Client?](#what-is-an-external-email-client)
+  - [1. Enable Native Client](#1-enable-native-client)
+  - [2. Configuring Outlook](#2-configuring-outlook)
+
 ---
+
 ## What Is An External Email Client?
+
 > placeholder
 
-!!! warning 
+!!! warning
     This walkthrough will be assuming that your external email client of choice is **Outlook**.  
     ***Gmail will not work for this method of setting up an external client.***
 
 ## 1. Enable Native Client
+
 1. Sign in to your BCIT Email in Webmail.
 2. Go to the **Settings** tab in the top right of the screen.
 3. Go to the settings section **Preferences**.
@@ -24,11 +34,18 @@
 
 4. Go to the Section **Native Client**.
 5. Next to *Enable Native Client* click the slider.
+6. Click on the **Save** button.
 
     !!! success
-        The slider should now be coloured blue.
+        This is what enabling native client should look like.
+        === "Image"
+            ![Successful enabling of native client](assets/emailClient/enablenativeclient.png)
+
+        === "GIF"
+            ![Successful enabling of native client](assets/emailClient/nativeclient.gif)
 
 ## 2. Configuring Outlook
+
 1. Click the **Add account** button in Outlook.
 2. Under the *Suggested accounts* header, add your BCIT Email, then continue.
 3. Click the **IMAP** option in the list.

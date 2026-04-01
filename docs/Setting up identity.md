@@ -1,4 +1,5 @@
 # <u>***Will reformat and apply style guide after instructions are reviewed.***</u>
+
 - [ ] 1. Review instructions
 - [ ] 2. Add images
 - [ ] 3. Reformat
@@ -6,18 +7,28 @@
 
 # Setting Up An Identity
 
+- [***Will reformat and apply style guide after instructions are reviewed.***](#will-reformat-and-apply-style-guide-after-instructions-are-reviewed)
+- [Setting Up An Identity](#setting-up-an-identity)
+  - [What Is An Identity?](#what-is-an-identity)
+  - [1. Add An Identity](#1-add-an-identity)
+  - [2. Adding Information](#2-adding-information)
+
+
 ---
 
 ## What Is An Identity?
+
 > placeholder
 
 ## 1. Add An Identity
+
 1. Sign in to your BCIT Email in Webmail.
 2. Go to the **Settings** tab in the top right of the screen.
 3. Go to the settings section **Identities**.
 4. Click on the **Plus (+)** button in the bottom of the screen, underneath the *Identities* tab.
 
 ## 2. Adding Information
+
 1. Set your **Display Name**, your display name should be your real name *(i.e. John Doe)*.
 2. Set your **Email**, this should be your BCIT email.
 3. Set your **Organization** *(i.e. BCIT)*.

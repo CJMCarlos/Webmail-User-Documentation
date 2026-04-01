@@ -1,7 +1,20 @@
+
+# How To Set Up Filters
+
+- [How To Set Up Filters](#how-to-set-up-filters)
+  - [**Overview**](#overview)
+  - [**Filtering Submission Receipts**](#filtering-submission-receipts)
+  - [**Conclusion**](#conclusion)
+
+
+---
+
 ## **Overview**
+
 Filters automatically sort your incoming emails based on rules you define. For example, moving all emails from a professor into a specific folder.
 
 ## **Filtering Submission Receipts**
+
 Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
 ![alt text](assets/FilterSubmissionReciept.png)
 Here are the steps to get started!
@@ -51,7 +64,6 @@ Here are the steps to get started!
     === "Gif"
         <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-
 7. Set your condition
 
     === "Image"
@@ -73,7 +85,8 @@ Here are the steps to get started!
     === "Gif"
         <div class="tenor-gif-embed" data-postid="10659136198576665222" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/cat-ouch-hammer-funny-cat-headache-gif-10659136198576665222">Cat Ouch GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-9. Right of **contains** box, select the **text field** and insert: 
+9. Right of **contains** box, select the **text field** and insert:
+
     ```
     mail.learn.bcit.ca
     ```
