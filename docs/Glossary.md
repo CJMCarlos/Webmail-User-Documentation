@@ -1,3 +1,9 @@
-| **Term** |  **Definition**              |
-|------------------------------|--------------------------------------------------|
-| **Filter Set** | A collection of rules (filters) that automatically process your incoming messages based on criteria you define.|
+| **Term**                          | **Definition**                                                                                                                                                                                               |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Filter Set**                    | A collection of rules (filters) that automatically process your incoming messages based on criteria you define.                                                                                              |
+| **GitHub Student Developer Pack** | A collection of free tools and services provided by GitHub for students, including GitHub Pro, cloud credits, design software, and more. Available to verify students at educational institutions worldwide. |
+| **GitHub Pro**                    | A premium GitHub subscription that includes unlimited public and private repositories, advanced features, and collaboration tools at no cost for verified students.                                          |
+| **Cloud Credits**                 | Free credits or funds provided by cloud service providers (such as AWS, Azure, or DigitalOcean) as part of the GitHub Student Developer Pack to help students build and deploy applications.                 |
+| **Verified Student**              | A status on GitHub indicating that your student status has been confirmed through your school email address or other official documentation, allowing you to access student benefits and packages.           |
+| **Student Status Verification**   | The process of confirming your enrollment at an educational institution through GitHub Education, typically using your school email address or student ID documentation.                                     |
+| **BCIT Email**                    | Your official email address provided by the British Columbia Institute of Technology (BCIT), typically in the format of @student.bcit.ca or @bcit.ca, used for account verification and student benefits.    |
