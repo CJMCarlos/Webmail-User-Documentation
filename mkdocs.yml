@@ -5,13 +5,19 @@ nav:
   - Home: index.md
   - Setting up external email client: Setting up external email client.md
   - Setting up identity: Setting up identity.md
-  - Setting up filters: Setting up filters.md
-  - Sign up for student benefits: Sign up for student benefits.md
+  - Filtering Submission Receipts: Filtering Submission Receipts.md
+  - Signing up for student benefits: Signing up for student benefits.md
   - Troubleshooting: Troubleshooting.md
   - Glossary: Glossary.md
 
+repo_name: CJMCarlos/Webmail-User-Documentation/
+repo_url: https://github.com/CJMCarlos/Webmail-User-Documentation/
+
 theme:
   name: material
+  features:
+    - navigation.footer
+    - toc.integrate
   palette:
     scheme: header1
     primary: indigo
@@ -32,3 +38,5 @@ markdown_extensions:
 
 extra_css:
   - stylesheet/extra.css
+
+copyright: Copyright &copy; 2026 Carlos Movilla and Brendan Jang

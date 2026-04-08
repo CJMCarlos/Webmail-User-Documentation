@@ -1,0 +1,133 @@
+## **Overview**
+Filters automatically sort your incoming emails based on rules you define. For example, moving all emails from a professor into a specific folder.
+
+## **Filtering Submission Receipts**
+Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
+![alt text](assets/FilterSubmissionReciept.png"Annoying submission receipt email")
+Here are the steps to get started!
+
+### **Accessing myBCIT Email** {.subheader}
+
+1. Log into [MyBCIT](https://my.bcit.ca/)
+
+2. Click **My Mail** in the top-right corner.
+
+    === "Image"
+        ![alt text](assets/Filter2ndStep.png"Options top right corner")
+
+    === "Gif"
+        ![alt text](assets/Filter2ndGif.gif){width=600px}
+
+### **Opening Settings and Filters** {.subheader}
+
+3. In your myBCIT email, click **Settings** (top-right)
+
+    === "Image"
+        ![alt text](assets/Filter3rdStep.png"")
+
+    === "Gif"
+        ![alt text](assets/Filter3rdGif.gif){width=800px}
+
+4. Under **Settings**, select **Filters**.
+
+    === "Image"
+        ![alt text](assets/Filter4thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter4thGif.gif){width=800px}
+
+### **Creating a New Filter** {.subheader}
+
+5. Click + to add a new filter.
+
+    === "Image"
+        ![alt text](assets/Filter5thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter5thGif.gif){width=800px}
+
+    !!! info
+        **roundcube** is the default filter set in your myBCIT email. This set is managed by the Roundcube webmail system, which is the standard interface for myBCIT email accounts. So don't worry about it!
+
+6. Set **Filter Name**
+
+    === "Image"
+        ![alt text](assets/Filter6thStep.png)
+
+    === "Gif"
+         ![alt text](assets/Filter6thGif.gif){width=800px}
+
+### **Configuring Filter Rules** {.subheader}
+
+7. Set your condition
+
+    === "Image"
+        ![alt text](assets/Filter7thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter7thGif.gif){width=800px}
+
+    !!! info
+        - **matching all of the following rules**: The email must meet *every* condition (AND)
+        - **matching any of the following rules**: The email meets *at least one* condition (OR)
+        - **all messages**: Applies to *every* incoming email, no conditions needed
+
+8. Under **Subject**, select **From**
+
+    === "Image"
+        ![alt text](assets/Filter8thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter8thGif.gif){width=800px}
+
+9. Right of **contains** box, select the **text field** and insert: 
+    ```
+    mail.learn.bcit.ca
+    ```
+
+    === "Image"
+        ![alt text](assets/Filter9thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter9thGif.gif){width=800px}
+
+    !!! info
+        The original address is "The Learning Hub - BCIT's Online Course Portal no-reply@mail.learn.bcit.ca". 
+        
+        However, using just the domain (mail.learn.bcit.ca) rather than the full address is more reliable. It'll catch all emails from The Learning Hub regardless of any minor sender variations.
+
+### **Setting Filter Actions** {.subheader}
+
+10. Under **Inbox**, select **Archive**
+
+    === "Image"
+        ![alt text](assets/Filter10thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter10thGif.gif){width=800px}
+
+    !!! warning
+        Make sure the **Filter disabled** toggle in the bottom-right is off so your filter is active.
+
+11. Once ready, click **Save**
+
+    === "Image"
+        ![alt text](assets/Filter11thStep.png)
+
+    === "Gif"
+        ![alt text](assets/Filter11thGif.gif){width=800px}
+
+!!! success
+    Congratulations! You have successfully uncluttered your inbox with one of many filters!
+
+    ![alt text](assets/FilterSuccess.png)
+
+## **Conclusion**
+
+By completing this tutorial, you have successfully:
+
+- ✅ Created a filter in your myBCIT webmail
+- ✅ Set a rule to identify emails from The Learning Hub
+- ✅ Configured an action to automatically move them out of your inbox
+
+You may go onto the next tab to learn how to take advantage of your email!
