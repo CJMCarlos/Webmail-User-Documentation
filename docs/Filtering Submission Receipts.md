@@ -6,6 +6,8 @@ Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
 ![alt text](assets/FilterSubmissionReciept.png"Annoying submission receipt email")
 Here are the steps to get started!
 
+### **Accessing myBCIT Email** {.subheader}
+
 1. Log into [MyBCIT](https://my.bcit.ca/)
 
 2. Click **My Mail** in the top-right corner.
@@ -15,6 +17,8 @@ Here are the steps to get started!
 
     === "Gif"
         ![alt text](assets/Filter2ndGif.gif){width=600px}
+
+### **Opening Settings and Filters** {.subheader}
 
 3. In your myBCIT email, click **Settings** (top-right)
 
@@ -31,6 +35,8 @@ Here are the steps to get started!
 
     === "Gif"
         ![alt text](assets/Filter4thGif.gif){width=800px}
+
+### **Creating a New Filter** {.subheader}
 
 5. Click + to add a new filter.
 
@@ -51,6 +57,7 @@ Here are the steps to get started!
     === "Gif"
          ![alt text](assets/Filter6thGif.gif){width=800px}
 
+### **Configuring Filter Rules** {.subheader}
 
 7. Set your condition
 
@@ -88,6 +95,8 @@ Here are the steps to get started!
         The original address is "The Learning Hub - BCIT's Online Course Portal no-reply@mail.learn.bcit.ca". 
         
         However, using just the domain (mail.learn.bcit.ca) rather than the full address is more reliable. It'll catch all emails from The Learning Hub regardless of any minor sender variations.
+
+### **Setting Filter Actions** {.subheader}
 
 10. Under **Inbox**, select **Archive**
 
