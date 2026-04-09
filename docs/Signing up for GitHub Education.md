@@ -4,6 +4,8 @@ The GitHub Student Developer Pack is a collection of free tools and services pro
 
 Ready to unlock free developer tools? The GitHub Student Developer Pack includes everything from GitHub Pro to cloud credits and design tools!
 
+---
+
 ## **Before You Begin**
 
 ### **Am I qualified for Github Education?** {.subheader}
@@ -22,6 +24,8 @@ You qualify for Github Education if you:
 - Your transcript
 - An affiliation or enrollment verification letter
 
+---
+
 ## **Preparing Your GitHub Account**
 
 1. Go to the [GitHub Education website](https://education.github.com/pack).
@@ -29,8 +33,8 @@ You qualify for Github Education if you:
     === "Image"
         ![alt text](assets/GitHub1.png"GitHub Education homepage")
 
-    === "Gif"
-        ![alt text](assets/GitHub1.gif){width=600px}
+    <!-- === "Gif"
+        ![alt text](assets/GitHub1.gif){width=600px} -->
 
 2. Click **Sign in with GitHub** if you already have an account, or **Sign up** to create a new one.
 
