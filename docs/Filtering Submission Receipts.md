@@ -46,8 +46,8 @@ Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
     === "Gif"
         ![alt text](assets/Filter5thGif.gif"Plus button to add new filter"){width=800px}
 
-    !!! info "About Roundcube"
-        **Roundcube** is the default filter set in your myBCIT email. This set is managed by the Roundcube webmail system, which is the standard interface for myBCIT email accounts. So don't worry about it!
+    !!! info "About roundcube"
+        **roundcube** is the default filter set in your myBCIT email. This set is managed by the Roundcube webmail system, which is the standard interface for myBCIT email accounts. So don't worry about it!
 
 6. Set _Filter Name_
 
@@ -80,11 +80,7 @@ Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
     === "Gif"
         ![alt text](assets/Filter8thGif.gif"Subject dropdown selection changed to From"){width=800px}
 
-9.  Right of _contains_ box, select the _text field_ and insert:
-
-    ```
-    mail.learn.bcit.ca
-    ```
+9.  Right of _contains_ box, select the _text field_ and insert `mail.learn.bcit.ca`.
 
     === "Image"
         ![alt text](assets/Filter9thStep.png"Text field with mail.learn.bcit.ca domain entered")
@@ -93,9 +89,9 @@ Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
         ![alt text](assets/Filter9thGif.gif"Text field with mail.learn.bcit.ca domain entered"){width=800px}
 
     !!! info "Why Use Domain Filtering"
-        The original address is "The Learning Hub - BCIT's Online Course Portal no-reply@`mail.learn.bcit.ca`".
+        The original address is `no-reply@mail.learn.bcit.ca`.
 
-        However, using just the domain (`mail.learn.bcit.ca`) rather than the full address is more reliable. It'll catch all emails from The Learning Hub regardless of any minor sender variations.
+        However, using just the domain `mail.learn.bcit.ca` rather than the full address is more reliable. It'll catch all emails from The Learning Hub regardless of any minor sender variations.
 
 ## **Setting Filter Actions**
 
