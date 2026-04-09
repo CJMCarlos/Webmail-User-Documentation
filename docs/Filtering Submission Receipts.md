@@ -1,12 +1,12 @@
 ## **Overview**
+
 Filters automatically sort your incoming emails based on rules you define. For example, moving all emails from a professor into a specific folder.
 
-## **Filtering Submission Receipts**
-Guess what? You can now get rid of the Submission Receipt clutter in your inbox!
-![alt text](assets/FilterSubmissionReciept.png"Annoying submission receipt email")
-Here are the steps to get started!
+Guess what? You can now get rid of the Submission Receipt clutter in your inbox! Here are the steps to get started.
 
-### **Accessing myBCIT Email** {.subheader}
+![alt text](assets/FilterSubmissionReciept.png"Annoying submission receipt email")
+
+## **Accessing myBCIT Email**
 
 1. Log into [MyBCIT](https://my.bcit.ca/)
 
@@ -18,7 +18,7 @@ Here are the steps to get started!
     === "Gif"
         ![alt text](assets/Filter2ndGif.gif){width=600px}
 
-### **Opening Settings and Filters** {.subheader}
+## **Opening Settings and Filters**
 
 3. In your myBCIT email, click **Settings** (top-right)
 
@@ -36,9 +36,9 @@ Here are the steps to get started!
     === "Gif"
         ![alt text](assets/Filter4thGif.gif){width=800px}
 
-### **Creating a New Filter** {.subheader}
+## **Creating a New Filter**
 
-5. Click + to add a new filter.
+5. Click **+** to add a new filter.
 
     === "Image"
         ![alt text](assets/Filter5thStep.png)
@@ -46,20 +46,20 @@ Here are the steps to get started!
     === "Gif"
         ![alt text](assets/Filter5thGif.gif){width=800px}
 
-    !!! info
-        **roundcube** is the default filter set in your myBCIT email. This set is managed by the Roundcube webmail system, which is the standard interface for myBCIT email accounts. So don't worry about it!
+    !!! info "About Roundcube"
+        **Roundcube** is the default filter set in your myBCIT email. This set is managed by the Roundcube webmail system, which is the standard interface for myBCIT email accounts. So don't worry about it!
 
-6. Set **Filter Name**
+6. Set _Filter Name_
 
     === "Image"
         ![alt text](assets/Filter6thStep.png)
 
     === "Gif"
-         ![alt text](assets/Filter6thGif.gif){width=800px}
+        ![alt text](assets/Filter6thGif.gif){width=800px}
 
-### **Configuring Filter Rules** {.subheader}
+## **Configuring Filter Rules**
 
-7. Set your condition
+7.  Set your condition
 
     === "Image"
         ![alt text](assets/Filter7thStep.png)
@@ -67,12 +67,12 @@ Here are the steps to get started!
     === "Gif"
         ![alt text](assets/Filter7thGif.gif){width=800px}
 
-    !!! info
-        - **matching all of the following rules**: The email must meet *every* condition (AND)
-        - **matching any of the following rules**: The email meets *at least one* condition (OR)
-        - **all messages**: Applies to *every* incoming email, no conditions needed
+    !!! info "Filter Condition Types"
+        - **matching all of the following rules**: The email must meet _every_ condition (AND)
+        - **matching any of the following rules**: The email meets _at least one_ condition (OR)
+        - **all messages**: Applies to _every_ incoming email, no conditions needed
 
-8. Under **Subject**, select **From**
+8.  Under **Subject**, select **From**
 
     === "Image"
         ![alt text](assets/Filter8thStep.png)
@@ -80,7 +80,8 @@ Here are the steps to get started!
     === "Gif"
         ![alt text](assets/Filter8thGif.gif){width=800px}
 
-9. Right of **contains** box, select the **text field** and insert: 
+9.  Right of _contains_ box, select the _text field_ and insert:
+
     ```
     mail.learn.bcit.ca
     ```
@@ -91,12 +92,12 @@ Here are the steps to get started!
     === "Gif"
         ![alt text](assets/Filter9thGif.gif){width=800px}
 
-    !!! info
-        The original address is "The Learning Hub - BCIT's Online Course Portal no-reply@mail.learn.bcit.ca". 
-        
-        However, using just the domain (mail.learn.bcit.ca) rather than the full address is more reliable. It'll catch all emails from The Learning Hub regardless of any minor sender variations.
+    !!! info "Why Use Domain Filtering"
+        The original address is "The Learning Hub - BCIT's Online Course Portal no-reply@`mail.learn.bcit.ca`".
 
-### **Setting Filter Actions** {.subheader}
+        However, using just the domain (`mail.learn.bcit.ca`) rather than the full address is more reliable. It'll catch all emails from The Learning Hub regardless of any minor sender variations.
+
+## **Setting Filter Actions**
 
 10. Under **Inbox**, select **Archive**
 
@@ -107,7 +108,7 @@ Here are the steps to get started!
         ![alt text](assets/Filter10thGif.gif){width=800px}
 
     !!! warning
-        Make sure the **Filter disabled** toggle in the bottom-right is off so your filter is active.
+        Make sure the **_Filter disabled_** toggle in the bottom-right is **_off_** so your filter is active.
 
 11. Once ready, click **Save**
 

@@ -29,8 +29,8 @@ The main sections of the documentation are summarized below:
 
 - **[Setting up external email client](Setting up external email client)**
 - **[Setting up identity](Setting up identity)**
-- **[Setting up filters](Setting up filters)**
-- **[Sign up for student benefits](Sign up for student benefits)**
+- **[Filtering Submission Receipts](Filtering Submission Receipts)**
+- **[Signing up for GitHub Education](Signing up for GitHub Education)**
 
 ## **Typographical Conventions**
 
@@ -46,13 +46,13 @@ The main sections of the documentation are summarized below:
 This guide uses info, success, and warning messages to provide additional information for instruction steps.
 
 !!! info
-Tips or helpful information!
+    Tips or helpful information!
 
 !!! success
-Description of a successful outcome!
+    Description of a successful outcome!
 
 !!! warning
-Important content before proceeding!
+    Important content before proceeding!
 
 <!-- For full documentation visit <[mkdocs.org](https://www.mkdocs.org)>.
 
