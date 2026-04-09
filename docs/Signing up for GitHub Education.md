@@ -2,11 +2,9 @@
 
 The GitHub Student Developer Pack is a collection of free tools and services provided by GitHub for students. It includes free GitHub Pro, access to educational resources, cloud credits, and more. As a BCIT student, you're eligible to claim these valuable benefits.
 
-## **Getting GitHub Student Developer Pack**
-
 Ready to unlock free developer tools? The GitHub Student Developer Pack includes everything from GitHub Pro to cloud credits and design tools!
 
-Before we get started, we have to answer these two questions below.
+## **Before You Begin**
 
 ### **Am I qualified for Github Education?** {.subheader}
 
@@ -24,7 +22,7 @@ You qualify for Github Education if you:
 - Your transcript
 - An affiliation or enrollment verification letter
 
-### **Preparing Your GitHub Account** {.subheader}
+## **Preparing Your GitHub Account**
 
 1. Go to the [GitHub Education website](https://education.github.com/pack).
 
@@ -36,16 +34,15 @@ You qualify for Github Education if you:
 
 2. Click **Sign in with GitHub** if you already have an account, or **Sign up** to create a new one.
 
-    !!! info
+    !!! info "Creating a New Account"
         If you're creating a new account, make sure to use your **BCIT email address** to verify your student status later.
 
 3. Complete the GitHub account setup if you're new to the platform.
 
     !!! warning
-        Make sure you **completed your GitHub billing information** with your full name exactly as it appears in your academic affiliation document. You do not have to add a payment method. You may need to log out and log back in to GitHub before reapplying. If you have only a single legal name, enter it in both the first and last name fields.
+        Make sure you **_completed_** your GitHub billing information with your full name exactly as it appears in your academic affiliation document. You do not have to add a payment method. You may need to log out and log back in to GitHub before reapplying. If you have only a single legal name, enter it in both the first and last name fields.
 
-
-### **Verifying Your Student Status** {.subheader}
+## **Verifying Your Student Status**
 
 4.  Once logged in, click the **Start an application** button.
 
@@ -62,14 +59,14 @@ You qualify for Github Education if you:
 
         ![alt text](assets/GitHub6.png"Share Location checkmark"){width=400px}
 
-### **Submitting Proof of Status** {.subheader}
+## **Submitting Proof of Enrollment**
 
 7.  Select your method of verification.
 
     ![alt text](assets/GitHub7.png"Verification method options"){width=400px}
 
-    !!! info
-        Each verification method determines how likely each document is to be accepted:
+    !!! info "Acceptance Rates"
+        How likely each document is to be accepted:
 
         - **Good** - Most likely to be accepted
         - **Fair** - May be accepted
@@ -79,18 +76,16 @@ You qualify for Github Education if you:
 
     ![alt text](assets/GitHub8.png"Continue Button"){width=400px}
 
+9.  Wait a few days for approval. Make sure to check your BCIT email for an acceptance/rejection email.
 
-9. Wait a few days for approval. Make sure to check your BCIT email for an acceptance/rejection email.
-
-!!! Success
+!!! success
     Congratulations! Your approval email/status will look like this
 
     ![alt text](assets/GitHub9.png"Approval Email"){width=700px}
 
     ![alt text](assets/GitHubApprovalStatus.png"Approval Status"){width=700px}
 
-
-### **Unlocking Your Benefits** {.subheader}
+## **Unlocking Your Benefits**
 
 10. Return to [Education Benefits](https://github.com/settings/education/benefits) after confirming your email.
 
@@ -98,8 +93,6 @@ You qualify for Github Education if you:
 
     ![alt text](assets/GitHub11.png"Verified student status")
 
-!!! success
-    You've successfully joined the GitHub Student Developer Pack! Start exploring your free tools and resources.
 
 ## **Conclusion**
 

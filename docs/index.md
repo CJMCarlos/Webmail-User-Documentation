@@ -29,15 +29,17 @@ The main sections of the documentation are summarized below:
 
 - **[Setting up external email client](Setting up external email client)**
 - **[Setting up identity](Setting up identity)**
-- **[Setting up filters](Setting up filters)**
-- **[Sign up for student benefits](Sign up for student benefits)**
+- **[Filtering Submission Receipts](Filtering Submission Receipts)**
+- **[Signing up for GitHub Education](Signing up for GitHub Education)**
 
 ## **Typographical Conventions**
 
-| Convention Explanation                                                                                                                       | Examples                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Commands & Actions: Bolded verbs are commands or actions you need to perform for instructions.                                               | Click, Enter, Type, Return, Open, Select              |
-| Menu & Button Sequence: Menu and Buttons are enclosed with square brackets. The → symbol indicates the flow of menu or button click actions. | [Students] → [Higher Education] → [Start diagramming] |
+| Convention Explanation                                                                                                                       | Examples                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Bold UI Elements**: Buttons, tabs, and settings names that appear in the interface.                                                        | **Settings**, **Plus (+)**, **Save**, **Preferences**       |
+| _Italicized Field Names_: Input fields or settings that you need to configure or fill in.                                                    | _Password_, _Email_, _Display Name_, _IMAP Incoming server_ |
+| **_Bold & Italics_**: Important emphasis or warnings within instructions.                                                                    | **_Gmail will not work_**, **_any_** of these values        |
+| `Code Blocks`: Technical values, server addresses, or specific inputs to enter.                                                              | `imap.my.bcit.ca`, `smtp.my.bcit.ca`, `mail.learn.bcit.ca`  |
 
 ## **Admonitions**
 
