@@ -30,7 +30,7 @@ The main sections of the documentation are summarized below:
 - **[Setting up external email client](Setting up external email client)**
 - **[Setting up identity](Setting up identity)**
 - **[Filtering Submission Receipts](Filtering Submission Receipts)**
-- **[Signing up for student benefits](Signing up for student benefits)**
+- **[Signing up for GitHub Education](Signing up for GitHub Education)**
 
 ## **Typographical Conventions**
 
