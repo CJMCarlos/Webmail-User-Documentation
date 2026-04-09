@@ -4,24 +4,24 @@ The purpose of this document is to help you effectively use your BCIT email, an 
 
 For more information, please visit the official [BCIT website](https://kb.bcit.ca/student/logging-in-to-mybcit-125/).
 
-## <span style="color:#013F6A">**User Demographic**</span>
+## **User Demographic**
 
 This documentation is targeted towards the following users:
 
-- Students who want to utilize their BCIT email
-- Confused first year CST students
+- Students enrolled in any program at BCIT who want to optimize their BCIT email
+- First-year students new to BCIT's email system
 
 ## **Prerequisite Knowledge**
 
-The Documentation assumes the following
+The Documentation assumes the following:
 
-- User already has an BCIT email
-- Basic knowledge of mouse, keyboard, and trackpad terminologies
-- Knowledge of other email platforms (Microsoft Outlook, Gmail, Yahoo, etc.)
+- You already have an active BCIT email account
+- You can use common mouse actions (click, double-click, right-click) and keyboard shortcuts (Ctrl, Alt, Shift)
+- You are familiar with basic email concepts such as inboxes, folders, composing messages, and attachments from using other email services
 
 ## **Software Requirements**
 
-Only basic computer literacy is required to follow this guide. Users will need a Windows, macOS, or Linux computer to use any browser.
+No specialized technical skills are required to follow this guide. You will need a computer running Windows, macOS, or Linux, and access to a modern web browser (such as Chrome, Firefox, Safari, or Edge).
 
 ## Procedures Overview
 
@@ -29,15 +29,17 @@ The main sections of the documentation are summarized below:
 
 - **[Setting up external email client](Setting up external email client)**
 - **[Setting up identity](Setting up identity)**
-- **[Setting up filters](Setting up filters)**
-- **[Sign up for student benefits](Sign up for student benefits)**
+- **[Filtering Submission Receipts](Filtering Submission Receipts)**
+- **[Signing up for GitHub Education](Signing up for GitHub Education)**
 
 ## **Typographical Conventions**
 
-| Convention Explanation                                                                                                                       | Examples                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Commands & Actions: Bolded verbs are commands or actions you need to perform for instructions.                                               | Click, Enter, Type, Return, Open, Select              |
-| Menu & Button Sequence: Menu and Buttons are enclosed with square brackets. The → symbol indicates the flow of menu or button click actions. | [Students] → [Higher Education] → [Start diagramming] |
+| Convention Explanation                                                                    | Examples                                                    |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Bold UI Elements**: Buttons, tabs, and settings names that appear in the interface.     | **Settings**, **Plus (+)**, **Save**, **Preferences**       |
+| _Italicized Field Names_: Input fields or settings that you need to configure or fill in. | _Password_, _Email_, _Display Name_, _IMAP Incoming server_ |
+| **_Bold & Italics_**: Important emphasis or warnings within instructions.                 | **_Gmail will not work_**, **_any_** of these values        |
+| `Code Blocks`: Technical values, server addresses, or specific inputs to enter.           | `imap.my.bcit.ca`, `smtp.my.bcit.ca`, `mail.learn.bcit.ca`  |
 
 ## **Admonitions**
 
