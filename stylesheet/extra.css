@@ -1,0 +1,50 @@
+/* BCIT HEADER COLOUR FOR .YML*/
+[data-md-color-scheme="header1"] {
+  --md-primary-fg-color: #032b52;
+  --md-primary-fg-color--light: #032b52;
+  --md-primary-fg-color--dark: #032b52;
+}
+
+/* DEFAULT TEXT */
+.md-typeset {
+  color: #013f6a;
+}
+
+/* HYPERLINK SECTION */
+.md-typeset a {
+  color: #2962ff;
+  text-decoration: none;
+
+  border-bottom: 3px solid #fff176;
+}
+
+/* Exclude tabbed content links from yellow underline */
+.md-typeset .tabbed-labels a {
+  border-bottom: none;
+}
+
+/* HYPERLINK HOVER EFFECT */
+.md-typeset a:not(.md-tabs__tab):hover {
+  color: #013f6a;
+  border-bottom-color: #013f6a;
+}
+
+/* .md-nav__link {
+  display: inline-block;
+} */
+
+/* CONTENT TAB SPACING FOR YELLOW UNDERLINE */
+.md-nav__link {
+  border-bottom: 3px solid transparent;
+}
+
+/* CONTENT TAB UNDERLINE HOVER */
+.md-nav__link:hover {
+  color: currentColor !important;
+  border-bottom: 3px solid #fff176;
+}
+
+/* SUB HEADER STYLING */
+.subheader {
+  color: #625d5d;
+}
