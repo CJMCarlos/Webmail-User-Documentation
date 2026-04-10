@@ -33,8 +33,8 @@ You qualify for Github Education if you:
     === "Image"
         ![alt text](assets/GitHub1.png"GitHub Education homepage")
 
-    <!-- === "Gif"
-        ![alt text](assets/GitHub1.gif){width=600px} -->
+    === "Gif"
+        ![alt text](assets/GitHub1.gif){width=600px}
 
 2. Click **Sign in with GitHub** if you already have an account, or **Sign up** to create a new one.
 

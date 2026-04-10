@@ -37,7 +37,7 @@ This walkthrough will be assuming that your external email client of choice is *
 5. Next to *Enable Native Client* click the slider.
 
     === "Image"
-        ![Enabling Native Client](assets/emailClient/enableNativeClient.png){width=300px}
+        ![Enabling Native Client](assets/emailClient/enablenativeclient.png){width=300px}
 
     !!! success
         The slider should be blue after you click it.
