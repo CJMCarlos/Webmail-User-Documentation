@@ -1,8 +1,8 @@
 ## **Overview**
 
-An identity sets your display name and other information about you that other people can view when you email them.
+An identity is a kind of profile that contains your name, email address, organization and signature, while also allowing you to set automatic fowarding to different emails.
 
-An signature is a footer automatically placed at the end of every email you send.
+A signature is a footer automatically placed at the end of every email you send.
 
 ## **Add An Identity**
 
@@ -51,5 +51,6 @@ An signature is a footer automatically placed at the end of every email you send
 ## **Conclusion**
 
 By the end of this guide you will have successfully:
-✅ Added an identity to be used for your emails
+
+✅ Added an identity to be used for your emails  
 ✅ Added a signature to be placed at the end of your emails
