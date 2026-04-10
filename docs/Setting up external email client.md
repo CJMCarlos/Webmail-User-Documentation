@@ -34,6 +34,9 @@ This walkthrough will be assuming that your external email client of choice is *
     === "Image"
         ![Navigating to Native Client](assets/emailClient/nativeClient.png){width=300px}
 
+    !!! info
+        Native Email clients are programs that handle emails as an standalone software installed on your device, as opposed to Webmail which is all handled in the browser.
+
 5. Next to *Enable Native Client* click the slider.
 
     === "Image"
@@ -61,7 +64,7 @@ This walkthrough will be assuming that your external email client of choice is *
 3. Click the **IMAP** option in the list.
 
     === "GIF"
-        ![Selecting IMAP](assets/emailClient/SelectIMAP.gif){width=600px}
+        ![Selecting IMAP](assets/emailClient/imap.gif){width=600px}
 
 4. Under the *Password* header enter your BCIT Email password
 
